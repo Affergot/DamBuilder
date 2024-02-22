@@ -150,7 +150,10 @@
 				"S:/Unreal/UE_5.3/Engine/Plugins/Experimental/Water/Content/Waves/GerstnerWaves_Lake.uasset",
 				"S:/Unreal/UE_5.3/Engine/Plugins/Experimental/Water/Content/Materials/WaterSurface/Water_Material_River.uasset",
 				"C:/Users/pixel/Git/DamBuilder/DamBuilder/Content/Megascans/Surfaces/sandWPebbles_LayerInfo.uasset",
-				"S:/Unreal/UE_5.3/Engine/Plugins/Experimental/Water/Content/Materials/WaterSurface/Water_Material_Lake.uasset"
+				"S:/Unreal/UE_5.3/Engine/Plugins/Experimental/Water/Content/Materials/WaterSurface/Water_Material_Lake.uasset",
+				"C:/Users/pixel/Git/DamBuilder/DamBuilder/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"C:/Users/pixel/Git/DamBuilder/DamBuilder/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/KD/MCOSMD2TZQQNQVLVESUOTE.uasset",
+				"C:/Users/pixel/Git/DamBuilder/DamBuilder/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/40/F1BVF8BHPTBYWNW51FJN1K.uasset"
 			]
 		}
 	]
