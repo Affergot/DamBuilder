@@ -1,6 +1,0 @@
-2024/02/20-14:04:24.336 5910 Creating DB C:/Users/pixel/Git/DamBuilder/DamBuilder/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
-2024/02/20-14:04:24.354 5910 Reusing MANIFEST C:/Users/pixel/Git/DamBuilder/DamBuilder/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/02/20-15:03:35.250 59a0 Level-0 table #5: started
-2024/02/20-15:03:35.260 59a0 Level-0 table #5: 1211 bytes OK
-2024/02/20-15:03:35.262 59a0 Delete type=0 #3
-2024/02/20-15:03:35.263 59a0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
