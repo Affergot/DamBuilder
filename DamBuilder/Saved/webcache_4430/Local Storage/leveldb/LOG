@@ -1,3 +1,2 @@
-2024/02/20-15:48:37.790 5aac Reusing MANIFEST C:/Users/pixel/Git/DamBuilder/DamBuilder/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2024/02/20-15:48:37.792 5aac Recovering log #3
-2024/02/20-15:48:37.793 5aac Reusing old log C:/Users/pixel/Git/DamBuilder/DamBuilder/Saved/webcache_4430\Local Storage\leveldb/000003.log 
+2024/02/28-20:09:02.810 4bfc Creating DB C:/Users/pixel/Git/DamBuilder/DamBuilder/Saved/webcache_4430\Local Storage\leveldb since it was missing.
+2024/02/28-20:09:02.860 4bfc Reusing MANIFEST C:/Users/pixel/Git/DamBuilder/DamBuilder/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
