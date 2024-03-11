@@ -1,3 +1,26 @@
-[0229/100835.317:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
-[0229/100843.109:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[0229/101035.890:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0311/123820.640:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[0311/123821.477:ERROR:backend_impl.cc(1041)] Critical error found -8
+[0311/123821.478:ERROR:entry_impl.cc(1075)] No file for c1030008
+[0311/123821.478:WARNING:storage_block-inl.h(146)] Failed data load.
+[0311/123821.478:WARNING:storage_block-inl.h(146)] Failed data load.
+[0311/123821.478:WARNING:storage_block-inl.h(146)] Failed data load.
+[0311/123821.478:WARNING:storage_block-inl.h(146)] Failed data load.
+[0311/123821.478:ERROR:entry_impl.cc(1075)] No file for c103000c
+[0311/123821.478:WARNING:storage_block-inl.h(146)] Failed data load.
+[0311/123821.478:WARNING:storage_block-inl.h(146)] Failed data load.
+[0311/123821.479:WARNING:storage_block-inl.h(146)] Failed data load.
+[0311/123821.479:WARNING:storage_block-inl.h(146)] Failed data load.
+[0311/123821.479:ERROR:entry_impl.cc(1075)] No file for c103000a
+[0311/123821.479:WARNING:storage_block-inl.h(146)] Failed data load.
+[0311/123821.479:WARNING:storage_block-inl.h(146)] Failed data load.
+[0311/123821.481:WARNING:storage_block-inl.h(146)] Failed data load.
+[0311/123828.634:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0311/124020.983:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0311/124110.961:ERROR:leveldb_factory.cc(91)] Failed to open LevelDB database from C:/Users/pixel/Git/DamBuilder/DamBuilder/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb,IO error: C:/Users/pixel/Git/DamBuilder/DamBuilder/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0311/124110.973:ERROR:leveldb_factory.cc(91)] Failed to open LevelDB database from C:/Users/pixel/Git/DamBuilder/DamBuilder/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb,IO error: C:/Users/pixel/Git/DamBuilder/DamBuilder/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0311/124113.156:ERROR:leveldb_factory.cc(91)] Failed to open LevelDB database from C:/Users/pixel/Git/DamBuilder/DamBuilder/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb,IO error: C:/Users/pixel/Git/DamBuilder/DamBuilder/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0311/124113.166:ERROR:leveldb_factory.cc(91)] Failed to open LevelDB database from C:/Users/pixel/Git/DamBuilder/DamBuilder/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb,IO error: C:/Users/pixel/Git/DamBuilder/DamBuilder/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0311/124236.439:ERROR:leveldb_factory.cc(91)] Failed to open LevelDB database from C:/Users/pixel/Git/DamBuilder/DamBuilder/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb,IO error: C:/Users/pixel/Git/DamBuilder/DamBuilder/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0311/124236.450:ERROR:leveldb_factory.cc(91)] Failed to open LevelDB database from C:/Users/pixel/Git/DamBuilder/DamBuilder/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb,IO error: C:/Users/pixel/Git/DamBuilder/DamBuilder/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0311/124239.051:ERROR:leveldb_factory.cc(91)] Failed to open LevelDB database from C:/Users/pixel/Git/DamBuilder/DamBuilder/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb,IO error: C:/Users/pixel/Git/DamBuilder/DamBuilder/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0311/124239.066:ERROR:leveldb_factory.cc(91)] Failed to open LevelDB database from C:/Users/pixel/Git/DamBuilder/DamBuilder/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb,IO error: C:/Users/pixel/Git/DamBuilder/DamBuilder/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
